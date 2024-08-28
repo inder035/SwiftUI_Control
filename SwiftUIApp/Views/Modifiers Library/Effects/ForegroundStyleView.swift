@@ -38,7 +38,7 @@ struct ForegroundStyleView: View {
             }
             .padding(.horizontal)
         }
-        .navigationTitle("Accent")
+        .navigationTitle("Foreground Style")
     }
 }
 
